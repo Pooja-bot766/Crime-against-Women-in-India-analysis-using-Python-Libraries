@@ -10,6 +10,7 @@ Perform state-wise and year-wise analysis
 Identify regions with high crime rates
 Visualize crime distribution using graphs and charts
 Generate meaningful insights through data analytics
+
 Technologies Used
 Python
 Pandas – Data manipulation and analysis
@@ -18,8 +19,8 @@ Matplotlib – Data visualization
 Seaborn – Statistical data visualization
 Plotly (optional) – Interactive visualizations
 Jupyter Notebook
-Features
 
+Features
 ✔ Data Cleaning and Preprocessing
 ✔ Exploratory Data Analysis (EDA)
 ✔ Statistical Analysis
@@ -36,6 +37,4 @@ Predictive analysis using Machine Learning
 Interactive dashboard development
 Real-time crime data integration
 
-Tags/Topics for GitHub Repository
 
-python data-analysis women-safety crime-analysis india-data data-visualization pandas numpy matplotlib seaborn jupyter-notebook eda
