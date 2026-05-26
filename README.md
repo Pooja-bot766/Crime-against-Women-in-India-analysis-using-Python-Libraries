@@ -12,13 +12,14 @@ Visualize crime distribution using graphs and charts
 Generate meaningful insights through data analytics
 
 Technologies Used
-Python
-Pandas – Data manipulation and analysis
-NumPy – Numerical computations
-Matplotlib – Data visualization
-Seaborn – Statistical data visualization
-Plotly (optional) – Interactive visualizations
-Jupyter Notebook
+
+Python:
+  Pandas – Data manipulation and analysis
+  NumPy – Numerical computations
+  Matplotlib – Data visualization
+  Seaborn – Statistical data visualization
+  Plotly (optional) – Interactive visualizations
+  Jupyter Notebook
 
 Features
 ✔ Data Cleaning and Preprocessing
@@ -29,12 +30,5 @@ Features
 ✔ Insight Generation from datasets
 
 Project Outcomes
-
 This analysis helps in understanding the crime patterns against women in India, enabling better awareness, policy discussions, and data-driven decision-making.
-
-Future Enhancements
-Predictive analysis using Machine Learning
-Interactive dashboard development
-Real-time crime data integration
-
 
